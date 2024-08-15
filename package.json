@@ -1,0 +1,17 @@
+{
+  "name": "web-scraper-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node scraping"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^22.15.0"
+  }
+}
